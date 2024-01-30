@@ -36,6 +36,10 @@
 - Made the Browser page amazing with Tailwind CSS
 - usePopularMovies Custom hook
 - useTodRatedMovies Custom hook
+- GPT Search page
+- GPT Search Bar
+- Multi-language Feature in our App
+-
 
 # Features
 
